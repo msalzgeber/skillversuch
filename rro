@@ -15,7 +15,7 @@
 
 var speechOutput;
 var reprompt;
-var welcomeOutput = "Willkommen bei radio rotttu oberwallis. Dasch dswallis. Sie können hier r r o, r r o müsic pur oder r r o swiss melodi hören.";
+var welcomeOutput = "Willkommen bei radio rotttu oberwallis. Dasch dswallis. Sie können hier, r r o, r r o müsic pur, oder, r r o swiss melodi hören.";
 var welcomeReprompt = "Welches Programm möchten Sie hören?";
  // 2. Skill Code =======================================================================================================
 "use strict";
