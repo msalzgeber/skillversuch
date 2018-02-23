@@ -269,5 +269,3 @@ function getDialogDirectives(dialogType, updatedIntent, slotName) {
     }
     return [directive];
 }
-
-1
